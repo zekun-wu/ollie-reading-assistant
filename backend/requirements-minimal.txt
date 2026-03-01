@@ -1,0 +1,11 @@
+# Minimal requirements for testing the core architecture
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+websockets==11.0.3
+python-multipart==0.0.6
+python-dotenv==1.0.0
+aiofiles==23.2.1
+httpx==0.24.1
+
+# Eye tracking
+tobii-research>=1.10.0

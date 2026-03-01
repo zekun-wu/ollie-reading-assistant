@@ -1,0 +1,341 @@
+{
+  "image_filename": "9.jpg",
+  "width": 1344,
+  "height": 768,
+  "background_index": 0,
+  "objects": [
+    {
+      "index": 1,
+      "bbox": [
+        12,
+        56,
+        278,
+        188
+      ],
+      "center": [
+        145,
+        122
+      ],
+      "area": 35112,
+      "objects": [
+        "Person",
+        "Zaun",
+        "Feuer",
+        "Kuh",
+        "Baum",
+        "Scheune",
+        "Busch",
+        "Feuerwehrwagen"
+      ]
+    },
+    {
+      "index": 2,
+      "bbox": [
+        290,
+        21,
+        607,
+        188
+      ],
+      "center": [
+        448,
+        104
+      ],
+      "area": 52939,
+      "objects": [
+        "Berge",
+        "Feuerwehrauto",
+        "Schlauch",
+        "Bäume",
+        "Feuerwehrmann",
+        "Leiter"
+      ]
+    },
+    {
+      "index": 3,
+      "bbox": [
+        615,
+        13,
+        797,
+        220
+      ],
+      "center": [
+        706,
+        116
+      ],
+      "area": 37674,
+      "objects": [
+        "Person",
+        "Schlauch",
+        "Landschaft",
+        "Bäume",
+        "Feuerwehrfahrzeug",
+        "Gebäude"
+      ]
+    },
+    {
+      "index": 4,
+      "bbox": [
+        809,
+        15,
+        1306,
+        207
+      ],
+      "center": [
+        1057,
+        111
+      ],
+      "area": 95424,
+      "objects": [
+        "Mensch",
+        "Feuerwehrauto",
+        "Bäume",
+        "Lastwagen",
+        "Krankenwagen",
+        "Bunte Kugeln",
+        "Polizeiwagen"
+      ]
+    },
+    {
+      "index": 5,
+      "bbox": [
+        881,
+        218,
+        1322,
+        389
+      ],
+      "center": [
+        1101,
+        303
+      ],
+      "area": 75411,
+      "objects": [
+        "Kind",
+        "Baum",
+        "Kettensäge",
+        "Feuerwehrmann",
+        "Ball"
+      ]
+    },
+    {
+      "index": 6,
+      "bbox": [
+        936,
+        395,
+        1334,
+        760
+      ],
+      "center": [
+        1135,
+        577
+      ],
+      "area": 145270,
+      "objects": [
+        "Feuerwehrauto",
+        "Kind",
+        "Erwachsene Person",
+        "Warnschild",
+        "Absperrband",
+        "Hütchen",
+        "Busch",
+        "Katze",
+        "Hund",
+        "Ball"
+      ]
+    },
+    {
+      "index": 7,
+      "bbox": [
+        33,
+        196,
+        594,
+        298
+      ],
+      "center": [
+        313,
+        247
+      ],
+      "area": 57222,
+      "objects": [
+        "Person",
+        "Feuerwehrauto",
+        "Schlauch",
+        "Teddy",
+        "Besen",
+        "Hund"
+      ]
+    },
+    {
+      "index": 8,
+      "bbox": [
+        35,
+        307,
+        269,
+        562
+      ],
+      "center": [
+        152,
+        434
+      ],
+      "area": 59670,
+      "objects": [
+        "Mikrofon",
+        "Person",
+        "Kamera",
+        "Schwein",
+        "Feuerwehrmann",
+        "Holzgebäude",
+        "Büsche",
+        "Boot"
+      ]
+    },
+    {
+      "index": 9,
+      "bbox": [
+        275,
+        301,
+        472,
+        447
+      ],
+      "center": [
+        373,
+        374
+      ],
+      "area": 28762,
+      "objects": [
+        "Schlauchboot",
+        "Schwimmweste",
+        "Schwein",
+        "Erwachsener",
+        "Wasser"
+      ]
+    },
+    {
+      "index": 10,
+      "bbox": [
+        16,
+        577,
+        284,
+        764
+      ],
+      "center": [
+        150,
+        670
+      ],
+      "area": 50116,
+      "objects": [
+        "Straße",
+        "Schwein",
+        "Mann",
+        "Sträucher",
+        "Lieferwagen",
+        "Hut"
+      ]
+    },
+    {
+      "index": 11,
+      "bbox": [
+        320,
+        628,
+        584,
+        755
+      ],
+      "center": [
+        452,
+        691
+      ],
+      "area": 33528,
+      "objects": [
+        "Mensch",
+        "Feuerwehrhelm",
+        "Polizist",
+        "Schwein",
+        "Feuerwehrmann",
+        "Segway",
+        "Lastwagen"
+      ]
+    },
+    {
+      "index": 12,
+      "bbox": [
+        323,
+        482,
+        722,
+        609
+      ],
+      "center": [
+        522,
+        545
+      ],
+      "area": 50673,
+      "objects": [
+        "Person",
+        "Handschuhe",
+        "Bodenbalken",
+        "Sicherheitshelm",
+        "Schwein",
+        "Wasser",
+        "Auto",
+        "Latzhose"
+      ]
+    },
+    {
+      "index": 13,
+      "bbox": [
+        492,
+        309,
+        872,
+        476
+      ],
+      "center": [
+        682,
+        392
+      ],
+      "area": 63460,
+      "objects": [
+        "Seil",
+        "Person",
+        "Kran",
+        "Schwein",
+        "Bunte Kugel",
+        "Wasser"
+      ]
+    },
+    {
+      "index": 14,
+      "bbox": [
+        603,
+        617,
+        676,
+        758
+      ],
+      "center": [
+        639,
+        687
+      ],
+      "area": 10293,
+      "objects": [
+        "Feuerwehrmann",
+        "Person"
+      ]
+    },
+    {
+      "index": 15,
+      "bbox": [
+        711,
+        622,
+        900,
+        767
+      ],
+      "center": [
+        805,
+        694
+      ],
+      "area": 27405,
+      "objects": [
+        "Lastwagen",
+        "Erwachsener",
+        "Schwein"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "image_filename": "1.jpg",
+  "width": 1344,
+  "height": 768,
+  "background_index": 0,
+  "objects": [
+    {
+      "index": 1,
+      "bbox": [
+        14,
+        208,
+        189,
+        381
+      ],
+      "center": [
+        101,
+        294
+      ],
+      "area": 30275,
+      "objects": [
+        "Schubkarre",
+        "Person",
+        "Schienen",
+        "Werkzeug",
+        "Berg",
+        "Bauhelm",
+        "Laterne"
+      ]
+    },
+    {
+      "index": 2,
+      "bbox": [
+        206,
+        214,
+        439,
+        353
+      ],
+      "center": [
+        322,
+        283
+      ],
+      "area": 32387,
+      "objects": [
+        "Kind",
+        "Felsen",
+        "Schienen",
+        "Lampe",
+        "Hund",
+        "Bagger"
+      ]
+    },
+    {
+      "index": 3,
+      "bbox": [
+        296,
+        56,
+        533,
+        209
+      ],
+      "center": [
+        414,
+        132
+      ],
+      "area": 36261,
+      "objects": [
+        "Traktor",
+        "Baum",
+        "Zaun",
+        "Licht",
+        "Kranarm"
+      ]
+    },
+    {
+      "index": 4,
+      "bbox": [
+        697,
+        109,
+        867,
+        296
+      ],
+      "center": [
+        782,
+        202
+      ],
+      "area": 31790,
+      "objects": [
+        "Kabel",
+        "Generator",
+        "Schaufel",
+        "Kranausleger",
+        "Schutzhelm",
+        "Bagger",
+        "Baustelle",
+        "Tunnel",
+        "Bauarbeiter"
+      ]
+    },
+    {
+      "index": 5,
+      "bbox": [
+        903,
+        16,
+        1258,
+        100
+      ],
+      "center": [
+        1080,
+        58
+      ],
+      "area": 29820,
+      "objects": [
+        "Weg",
+        "Person",
+        "Schaf",
+        "Zaun",
+        "Büsche"
+      ]
+    },
+    {
+      "index": 6,
+      "bbox": [
+        893,
+        128,
+        1153,
+        197
+      ],
+      "center": [
+        1023,
+        162
+      ],
+      "area": 17940,
+      "objects": [
+        "Mensch",
+        "Fenster",
+        "Gepäckablage",
+        "Sitz"
+      ]
+    },
+    {
+      "index": 7,
+      "bbox": [
+        464,
+        264,
+        688,
+        402
+      ],
+      "center": [
+        576,
+        333
+      ],
+      "area": 30912,
+      "objects": [
+        "Lampen",
+        "Person",
+        "Holzplanke",
+        "Schaufel",
+        "Rolle",
+        "Bagger",
+        "Kabelrolle"
+      ]
+    },
+    {
+      "index": 8,
+      "bbox": [
+        1044,
+        201,
+        1292,
+        343
+      ],
+      "center": [
+        1168,
+        272
+      ],
+      "area": 35216,
+      "objects": [
+        "Helm",
+        "Person",
+        "Steine",
+        "Kipplaster",
+        "Bagger",
+        "Wiese"
+      ]
+    },
+    {
+      "index": 9,
+      "bbox": [
+        32,
+        402,
+        130,
+        499
+      ],
+      "center": [
+        81,
+        450
+      ],
+      "area": 9506,
+      "objects": [
+        "Tasche",
+        "Person",
+        "Papier"
+      ]
+    },
+    {
+      "index": 10,
+      "bbox": [
+        278,
+        371,
+        407,
+        464
+      ],
+      "center": [
+        342,
+        417
+      ],
+      "area": 11997,
+      "objects": [
+        "Hut",
+        "Taschenlampe",
+        "Person",
+        "Gras",
+        "Brücke",
+        "Treppe"
+      ]
+    },
+    {
+      "index": 11,
+      "bbox": [
+        694,
+        333,
+        1008,
+        613
+      ],
+      "center": [
+        851,
+        473
+      ],
+      "area": 87920,
+      "objects": [
+        "Betonmischer",
+        "Bohrmaschine",
+        "Lampen",
+        "Zaun",
+        "Bauarbeiter"
+      ]
+    },
+    {
+      "index": 12,
+      "bbox": [
+        1019,
+        355,
+        1321,
+        530
+      ],
+      "center": [
+        1170,
+        442
+      ],
+      "area": 52850,
+      "objects": [
+        "Kind",
+        "Radlader",
+        "Bohrmaschine",
+        "Bagger"
+      ]
+    },
+    {
+      "index": 13,
+      "bbox": [
+        11,
+        501,
+        622,
+        762
+      ],
+      "center": [
+        316,
+        631
+      ],
+      "area": 159471,
+      "objects": [
+        "Scheinwerfer",
+        "Baugerüst",
+        "Person",
+        "Schutzschienen",
+        "Förderband",
+        "Steine",
+        "Bagger"
+      ]
+    },
+    {
+      "index": 14,
+      "bbox": [
+        693,
+        626,
+        992,
+        755
+      ],
+      "center": [
+        842,
+        690
+      ],
+      "area": 38571,
+      "objects": [
+        "Werkzeugkiste",
+        "Fahrzeug",
+        "Helm",
+        "Kiste",
+        "Person",
+        "Papier"
+      ]
+    },
+    {
+      "index": 15,
+      "bbox": [
+        1020,
+        536,
+        1328,
+        742
+      ],
+      "center": [
+        1174,
+        639
+      ],
+      "area": 63448,
+      "objects": [
+        "Arbeitskleidung",
+        "Lastwagen",
+        "Bauarbeiter"
+      ]
+    }
+  ]
+}

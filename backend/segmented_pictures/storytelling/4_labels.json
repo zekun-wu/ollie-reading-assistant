@@ -1,0 +1,328 @@
+{
+  "image_filename": "4.jpg",
+  "width": 1344,
+  "height": 768,
+  "background_index": 0,
+  "objects": [
+    {
+      "index": 1,
+      "bbox": [
+        12,
+        12,
+        525,
+        195
+      ],
+      "center": [
+        268,
+        103
+      ],
+      "area": 93879,
+      "objects": [
+        "Strand",
+        "Containerschiff",
+        "Hafenkran",
+        "Stadt",
+        "Wal",
+        "Segelschiff",
+        "Turbine",
+        "Windrad",
+        "Strandsonnenschirm",
+        "Frau",
+        "Erwachsener",
+        "Kind",
+        "Sonnenschirm",
+        "Schaufel",
+        "Möwe",
+        "Hund",
+        "Zeppelin"
+      ]
+    },
+    {
+      "index": 2,
+      "bbox": [
+        6,
+        201,
+        465,
+        389
+      ],
+      "center": [
+        235,
+        295
+      ],
+      "area": 86292,
+      "objects": [
+        "Schwimmring",
+        "Surfbrett",
+        "Wasser",
+        "Kapitän",
+        "Kind",
+        "Taucher",
+        "Person",
+        "Boje",
+        "Boot",
+        "Hai"
+      ]
+    },
+    {
+      "index": 3,
+      "bbox": [
+        7,
+        396,
+        222,
+        600
+      ],
+      "center": [
+        114,
+        498
+      ],
+      "area": 43860,
+      "objects": [
+        "Delfin",
+        "Fisch",
+        "Sägerochen",
+        "Schwertfisch"
+      ]
+    },
+    {
+      "index": 4,
+      "bbox": [
+        234,
+        399,
+        647,
+        607
+      ],
+      "center": [
+        440,
+        503
+      ],
+      "area": 85904,
+      "objects": [
+        "Fisch",
+        "Hai",
+        "Qualle",
+        "Wal"
+      ]
+    },
+    {
+      "index": 5,
+      "bbox": [
+        690,
+        487,
+        1011,
+        759
+      ],
+      "center": [
+        850,
+        623
+      ],
+      "area": 87312,
+      "objects": [
+        "Seestern",
+        "Seeigel",
+        "Seegras",
+        "Kugelfisch",
+        "Fisch",
+        "Hai",
+        "Koralle"
+      ]
+    },
+    {
+      "index": 6,
+      "bbox": [
+        531,
+        15,
+        768,
+        202
+      ],
+      "center": [
+        649,
+        108
+      ],
+      "area": 44319,
+      "objects": [
+        "Radio",
+        "Eimer",
+        "Sonnenliege",
+        "Essen",
+        "Korb",
+        "Kugel",
+        "Sonnenhut",
+        "Kind",
+        "Wohnmobil",
+        "Palme",
+        "Sonnenschirm",
+        "Handtuch",
+        "Schaufel",
+        "Hund",
+        "Erwachsene"
+      ]
+    },
+    {
+      "index": 7,
+      "bbox": [
+        484,
+        211,
+        765,
+        320
+      ],
+      "center": [
+        624,
+        265
+      ],
+      "area": 30629,
+      "objects": [
+        "Strandtuch",
+        "Eimer",
+        "Sandburg",
+        "Sonnenliege",
+        "Erwachsener",
+        "Kind",
+        "Getränk",
+        "Schaufel",
+        "Luftmatratze",
+        "Seehund-Spielzeug"
+      ]
+    },
+    {
+      "index": 8,
+      "bbox": [
+        777,
+        7,
+        1282,
+        128
+      ],
+      "center": [
+        1029,
+        67
+      ],
+      "area": 61105,
+      "objects": [
+        "Brief",
+        "Felsen",
+        "Flugzeug",
+        "Holzpfahl",
+        "Koala",
+        "Hügel",
+        "Känguru",
+        "Vogel",
+        "Schild",
+        "Papagei"
+      ]
+    },
+    {
+      "index": 9,
+      "bbox": [
+        776,
+        159,
+        987,
+        355
+      ],
+      "center": [
+        881,
+        257
+      ],
+      "area": 41356,
+      "objects": [
+        "Felsen",
+        "Wasser",
+        "Eidechse",
+        "Person",
+        "Robbe",
+        "Baum",
+        "Vogel",
+        "Katzenartiges Tier",
+        "Schild",
+        "Löwe"
+      ]
+    },
+    {
+      "index": 10,
+      "bbox": [
+        1015,
+        135,
+        1323,
+        345
+      ],
+      "center": [
+        1169,
+        240
+      ],
+      "area": 64680,
+      "objects": [
+        "Dingo",
+        "Känguru",
+        "Crab",
+        "Kamera",
+        "Pflanze",
+        "Person",
+        "Vogel",
+        "Wombat"
+      ]
+    },
+    {
+      "index": 11,
+      "bbox": [
+        701,
+        363,
+        1321,
+        480
+      ],
+      "center": [
+        1011,
+        421
+      ],
+      "area": 72540,
+      "objects": [
+        "Hai",
+        "Seekuh",
+        "Schildkröte",
+        "Orca"
+      ]
+    },
+    {
+      "index": 12,
+      "bbox": [
+        1023,
+        489,
+        1339,
+        757
+      ],
+      "center": [
+        1181,
+        623
+      ],
+      "area": 84688,
+      "objects": [
+        "Rochen",
+        "Person",
+        "Fisch",
+        "Hai",
+        "Unterseeboot",
+        "Koralle"
+      ]
+    },
+    {
+      "index": 13,
+      "bbox": [
+        20,
+        621,
+        663,
+        764
+      ],
+      "center": [
+        341,
+        692
+      ],
+      "area": 91949,
+      "objects": [
+        "Kalmar",
+        "Laternenfisch",
+        "Wal",
+        "Algen",
+        "Fisch",
+        "Tintenfisch",
+        "Schildkröte"
+      ]
+    }
+  ]
+}

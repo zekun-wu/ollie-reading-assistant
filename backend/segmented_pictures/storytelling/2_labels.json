@@ -1,0 +1,350 @@
+{
+  "image_filename": "2.jpg",
+  "width": 1344,
+  "height": 768,
+  "background_index": 0,
+  "objects": [
+    {
+      "index": 1,
+      "bbox": [
+        13,
+        21,
+        427,
+        166
+      ],
+      "center": [
+        220,
+        93
+      ],
+      "area": 60030,
+      "objects": [
+        "Person",
+        "Himmel",
+        "Tür",
+        "LKW",
+        "Haus",
+        "Kran",
+        "Bäume"
+      ]
+    },
+    {
+      "index": 2,
+      "bbox": [
+        445,
+        21,
+        698,
+        175
+      ],
+      "center": [
+        571,
+        98
+      ],
+      "area": 38962,
+      "objects": [
+        "Person",
+        "LKW",
+        "Dach",
+        "Haus",
+        "Baugerüst",
+        "Baum"
+      ]
+    },
+    {
+      "index": 3,
+      "bbox": [
+        716,
+        5,
+        1026,
+        369
+      ],
+      "center": [
+        871,
+        187
+      ],
+      "area": 112840,
+      "objects": [
+        "Ziegel",
+        "Baustelle",
+        "Betonmischer",
+        "Bagger",
+        "Leiter",
+        "Haus",
+        "Lastwagen",
+        "Kind",
+        "Kran",
+        "Erwachsener"
+      ]
+    },
+    {
+      "index": 4,
+      "bbox": [
+        1039,
+        169,
+        1342,
+        362
+      ],
+      "center": [
+        1190,
+        265
+      ],
+      "area": 58479,
+      "objects": [
+        "Person",
+        "Betonmischer",
+        "Bagger",
+        "Rohr",
+        "Haus",
+        "Holzbalken"
+      ]
+    },
+    {
+      "index": 5,
+      "bbox": [
+        16,
+        182,
+        669,
+        315
+      ],
+      "center": [
+        342,
+        248
+      ],
+      "area": 86849,
+      "objects": [
+        "Sandsäcke",
+        "Bagger",
+        "Menschen",
+        "Lastwagen",
+        "Baumaschine",
+        "Ziegelstapel",
+        "Kran",
+        "Holzstapel"
+      ]
+    },
+    {
+      "index": 6,
+      "bbox": [
+        27,
+        322,
+        200,
+        752
+      ],
+      "center": [
+        113,
+        537
+      ],
+      "area": 74390,
+      "objects": [
+        "Helm",
+        "Bauarbeiter",
+        "Baumhaus",
+        "Kind",
+        "Holz",
+        "Lkw",
+        "Werkzeug",
+        "Kran"
+      ]
+    },
+    {
+      "index": 7,
+      "bbox": [
+        215,
+        325,
+        446,
+        574
+      ],
+      "center": [
+        330,
+        449
+      ],
+      "area": 57519,
+      "objects": [
+        "Ziegelstein",
+        "Arbeiter",
+        "Leiter",
+        "Verputzer",
+        "Mauer",
+        "Gerüst",
+        "Schubkarre",
+        "Schaufel",
+        "Bauhelm"
+      ]
+    },
+    {
+      "index": 8,
+      "bbox": [
+        462,
+        325,
+        658,
+        577
+      ],
+      "center": [
+        560,
+        451
+      ],
+      "area": 49392,
+      "objects": [
+        "Person",
+        "Backsteinwand",
+        "Leiter",
+        "Arbeitskleidung",
+        "Fenster",
+        "Gerüst",
+        "Zementmischer",
+        "Baucontainer",
+        "Lkw",
+        "Dachziegel",
+        "Schubkarre"
+      ]
+    },
+    {
+      "index": 9,
+      "bbox": [
+        804,
+        388,
+        1148,
+        621
+      ],
+      "center": [
+        976,
+        504
+      ],
+      "area": 80152,
+      "objects": [
+        "Person",
+        "Ziegel",
+        "Fahrgestell",
+        "Leiter",
+        "Haus",
+        "Glasfenster",
+        "Kind",
+        "Solarmodul",
+        "Kran",
+        "Bauhelm"
+      ]
+    },
+    {
+      "index": 10,
+      "bbox": [
+        1156,
+        376,
+        1336,
+        533
+      ],
+      "center": [
+        1246,
+        454
+      ],
+      "area": 28260,
+      "objects": [
+        "Person",
+        "Tür",
+        "Baumaterial",
+        "Leiter",
+        "Haus",
+        "Fenster",
+        "Stuhl",
+        "Werkzeugkiste",
+        "Tisch",
+        "Bauhelm"
+      ]
+    },
+    {
+      "index": 11,
+      "bbox": [
+        207,
+        589,
+        653,
+        759
+      ],
+      "center": [
+        430,
+        674
+      ],
+      "area": 75820,
+      "objects": [
+        "Mensch",
+        "Stein",
+        "Hund",
+        "Erdhaufen",
+        "Bagger",
+        "Planierraupe",
+        "Stiefel",
+        "Keksdose",
+        "Zaun",
+        "Schaufel"
+      ]
+    },
+    {
+      "index": 12,
+      "bbox": [
+        664,
+        472,
+        797,
+        762
+      ],
+      "center": [
+        730,
+        617
+      ],
+      "area": 38570,
+      "objects": [
+        "Person",
+        "Stein",
+        "Palette",
+        "Silo",
+        "Leiter",
+        "Karton",
+        "Werkzeugkiste",
+        "Schaufel",
+        "Kabel"
+      ]
+    },
+    {
+      "index": 13,
+      "bbox": [
+        807,
+        625,
+        1113,
+        761
+      ],
+      "center": [
+        960,
+        693
+      ],
+      "area": 41616,
+      "objects": [
+        "Person",
+        "Rüttelplatte",
+        "Leiter",
+        "Getränkekühlschrank",
+        "Ziegelstapel",
+        "Baumaschine"
+      ]
+    },
+    {
+      "index": 14,
+      "bbox": [
+        1155,
+        545,
+        1334,
+        756
+      ],
+      "center": [
+        1244,
+        650
+      ],
+      "area": 37769,
+      "objects": [
+        "Person",
+        "Ziegel",
+        "Helm",
+        "Holzstruktur",
+        "Werkbank",
+        "Ziegelmauer",
+        "Werkzeug",
+        "Tisch"
+      ]
+    }
+  ]
+}

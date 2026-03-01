@@ -1,0 +1,316 @@
+{
+  "image_filename": "3.png",
+  "width": 1344,
+  "height": 768,
+  "background_index": 0,
+  "objects": [
+    {
+      "index": 1,
+      "bbox": [
+        42,
+        91,
+        322,
+        235
+      ],
+      "center": [
+        182,
+        163
+      ],
+      "area": 40320,
+      "objects": [
+        "Ziege",
+        "Busch",
+        "Wasserkanister",
+        "Person",
+        "Hütte",
+        "Pumpe",
+        "Baum"
+      ]
+    },
+    {
+      "index": 2,
+      "bbox": [
+        344,
+        50,
+        514,
+        266
+      ],
+      "center": [
+        429,
+        158
+      ],
+      "area": 36720,
+      "objects": [
+        "Berg",
+        "Vögel",
+        "Giraffe",
+        "Gras",
+        "Baum"
+      ]
+    },
+    {
+      "index": 3,
+      "bbox": [
+        521,
+        25,
+        1196,
+        169
+      ],
+      "center": [
+        858,
+        97
+      ],
+      "area": 97200,
+      "objects": [
+        "Heißluftballon",
+        "Wohnmobil",
+        "Vogel",
+        "Büffel",
+        "Giraffe",
+        "Flugzeug",
+        "Baum",
+        "Elefant"
+      ]
+    },
+    {
+      "index": 4,
+      "bbox": [
+        519,
+        177,
+        770,
+        467
+      ],
+      "center": [
+        644,
+        322
+      ],
+      "area": 72790,
+      "objects": [
+        "Gepard",
+        "Strauß",
+        "Stein",
+        "Gras",
+        "Antilope",
+        "Nashorn"
+      ]
+    },
+    {
+      "index": 5,
+      "bbox": [
+        778,
+        173,
+        1286,
+        331
+      ],
+      "center": [
+        1032,
+        252
+      ],
+      "area": 80264,
+      "objects": [
+        "Krokodil",
+        "Storch",
+        "Wasser",
+        "Büffel",
+        "Flusspferd",
+        "Flamingo",
+        "Elefant",
+        "Pflanze",
+        "Nashorn"
+      ]
+    },
+    {
+      "index": 6,
+      "bbox": [
+        22,
+        275,
+        501,
+        504
+      ],
+      "center": [
+        261,
+        389
+      ],
+      "area": 109691,
+      "objects": [
+        "Leiter",
+        "Kiste",
+        "Zebra",
+        "Erwachsener",
+        "Haus",
+        "Eimer",
+        "Hut",
+        "Tisch",
+        "Hund",
+        "Auto",
+        "Kind",
+        "Känguru",
+        "Kamera",
+        "Regenschirm",
+        "Rhinozeros"
+      ]
+    },
+    {
+      "index": 7,
+      "bbox": [
+        32,
+        510,
+        431,
+        758
+      ],
+      "center": [
+        231,
+        634
+      ],
+      "area": 98952,
+      "objects": [
+        "Schlange",
+        "Schildkröte",
+        "Erdmännchen",
+        "Kind",
+        "Löwe",
+        "Oryx",
+        "Hyäne"
+      ]
+    },
+    {
+      "index": 8,
+      "bbox": [
+        445,
+        516,
+        676,
+        758
+      ],
+      "center": [
+        560,
+        637
+      ],
+      "area": 55902,
+      "objects": [
+        "Strauß",
+        "Stein",
+        "Fernglas",
+        "Papagei",
+        "Person",
+        "Kamera",
+        "Kleidung",
+        "Gorilla",
+        "Schmetterling"
+      ]
+    },
+    {
+      "index": 9,
+      "bbox": [
+        789,
+        338,
+        1115,
+        485
+      ],
+      "center": [
+        952,
+        411
+      ],
+      "area": 47922,
+      "objects": [
+        "Stein",
+        "Fernglas",
+        "Wasser",
+        "Vogel",
+        "Auto",
+        "Strauch",
+        "Person",
+        "Fluss",
+        "Baum"
+      ]
+    },
+    {
+      "index": 10,
+      "bbox": [
+        1130,
+        338,
+        1329,
+        492
+      ],
+      "center": [
+        1229,
+        415
+      ],
+      "area": 30646,
+      "objects": [
+        "Felsen",
+        "Motorrad",
+        "Pflanze",
+        "Fahrer",
+        "Wasser",
+        "Flusspferd",
+        "Nashorn",
+        "Krokodil"
+      ]
+    },
+    {
+      "index": 11,
+      "bbox": [
+        702,
+        491,
+        1060,
+        620
+      ],
+      "center": [
+        881,
+        555
+      ],
+      "area": 46182,
+      "objects": [
+        "Lkw",
+        "Busch",
+        "Warzenschwein",
+        "Schlange",
+        "Felsen",
+        "Affe"
+      ]
+    },
+    {
+      "index": 12,
+      "bbox": [
+        705,
+        629,
+        1118,
+        768
+      ],
+      "center": [
+        911,
+        698
+      ],
+      "area": 57407,
+      "objects": [
+        "Marienkäfer",
+        "Stein",
+        "Löwin",
+        "Löwe",
+        "Löwenjunges",
+        "Pflanze"
+      ]
+    },
+    {
+      "index": 13,
+      "bbox": [
+        1124,
+        507,
+        1331,
+        697
+      ],
+      "center": [
+        1227,
+        602
+      ],
+      "area": 39330,
+      "objects": [
+        "Stein",
+        "Zebra",
+        "Vogel",
+        "Gras",
+        "Landschaft"
+      ]
+    }
+  ]
+}

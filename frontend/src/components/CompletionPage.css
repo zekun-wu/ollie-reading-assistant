@@ -1,0 +1,75 @@
+.completion-page {
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #ffd8e6 0%, #ffe3ee 35%, #fff0f6 60%, #fff8ef 100%);
+  padding: 2rem;
+}
+
+.completion-page::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background:
+    radial-gradient(600px 400px at 18% 18%, rgba(255, 182, 193, 0.42), rgba(255,182,193,0) 60%),
+    radial-gradient(520px 380px at 82% 75%, rgba(129, 199, 132, 0.18), rgba(129,199,132,0) 62%),
+    radial-gradient(360px 260px at 50% 5%, rgba(255, 192, 203, 0.28), rgba(255,192,203,0) 60%);
+  filter: blur(0.2px);
+}
+
+.completion-card {
+  position: relative;
+  z-index: 1;
+  background: rgba(255, 255, 255, 0.92);
+  border: 2px solid rgba(255, 182, 193, 0.55);
+  border-radius: 20px;
+  padding: 4rem 3rem;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.12);
+  max-width: 600px;
+  width: 100%;
+}
+
+.completion-content {
+  text-align: center;
+  color: #5d4037;
+}
+
+.completion-title {
+  font-size: 3rem;
+  margin-bottom: 1.5rem;
+  font-weight: 700;
+}
+
+.completion-description {
+  font-size: 1.3rem;
+  margin-bottom: 2.5rem;
+  line-height: 1.6;
+  color: #555;
+}
+
+.completion-button {
+  padding: 1rem 3rem;
+  background: linear-gradient(45deg, #43a047, #66bb6a);
+  border: none;
+  border-radius: 12px;
+  color: white;
+  font-size: 1.3rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
+}
+
+.completion-button:hover {
+  background: linear-gradient(45deg, #388e3c, #43a047);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.18);
+}
+
+.completion-button:active {
+  transform: translateY(0);
+}
+

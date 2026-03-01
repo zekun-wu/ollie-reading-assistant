@@ -1,0 +1,316 @@
+{
+  "image_filename": "7.jpg",
+  "width": 1344,
+  "height": 768,
+  "background_index": 0,
+  "objects": [
+    {
+      "index": 1,
+      "bbox": [
+        4,
+        3,
+        284,
+        286
+      ],
+      "center": [
+        144,
+        144
+      ],
+      "area": 79240,
+      "objects": [
+        "Tafel",
+        "Waffe",
+        "Headset",
+        "Person",
+        "Baum",
+        "Kletterausrüstung",
+        "Rucksack",
+        "Tor"
+      ]
+    },
+    {
+      "index": 2,
+      "bbox": [
+        323,
+        5,
+        654,
+        490
+      ],
+      "center": [
+        488,
+        247
+      ],
+      "area": 160535,
+      "objects": [
+        "Basketballkorb",
+        "Hubschrauber",
+        "Auto",
+        "Berg",
+        "Polizist",
+        "Speed Limit Schild",
+        "Frau",
+        "Mann"
+      ]
+    },
+    {
+      "index": 3,
+      "bbox": [
+        3,
+        297,
+        314,
+        480
+      ],
+      "center": [
+        158,
+        388
+      ],
+      "area": 56913,
+      "objects": [
+        "Matte",
+        "Kind",
+        "Leiter",
+        "Kleidung",
+        "Erwachsener"
+      ]
+    },
+    {
+      "index": 4,
+      "bbox": [
+        1,
+        500,
+        291,
+        742
+      ],
+      "center": [
+        146,
+        621
+      ],
+      "area": 70180,
+      "objects": [
+        "Schild",
+        "Tisch",
+        "Grafik",
+        "Person",
+        "Labor",
+        "Stuhl",
+        "Mikroskop",
+        "Computer",
+        "Tür"
+      ]
+    },
+    {
+      "index": 5,
+      "bbox": [
+        386,
+        498,
+        672,
+        597
+      ],
+      "center": [
+        529,
+        547
+      ],
+      "area": 28314,
+      "objects": [
+        "Poster",
+        "Tisch",
+        "Stuhl",
+        "Pflanze",
+        "Erwachsener"
+      ]
+    },
+    {
+      "index": 6,
+      "bbox": [
+        422,
+        601,
+        659,
+        757
+      ],
+      "center": [
+        540,
+        679
+      ],
+      "area": 36972,
+      "objects": [
+        "Tasche",
+        "Zaun",
+        "Schultasche",
+        "Rucksack",
+        "Polizist",
+        "Kind",
+        "Frau",
+        "Topfpflanze"
+      ]
+    },
+    {
+      "index": 7,
+      "bbox": [
+        671,
+        207,
+        942,
+        370
+      ],
+      "center": [
+        806,
+        288
+      ],
+      "area": 44173,
+      "objects": [
+        "Gartenzaun",
+        "Straßenschild",
+        "Busch",
+        "Kamera",
+        "Auto",
+        "Straße",
+        "Polizist",
+        "Laptop",
+        "Berg"
+      ]
+    },
+    {
+      "index": 8,
+      "bbox": [
+        894,
+        44,
+        1297,
+        200
+      ],
+      "center": [
+        1095,
+        122
+      ],
+      "area": 62868,
+      "objects": [
+        "Justiz-Fahrzeug",
+        "Straßenlampe",
+        "Person",
+        "Tannenbaum",
+        "Ziegelmauer",
+        "Überwachungskamera",
+        "Gebäude"
+      ]
+    },
+    {
+      "index": 9,
+      "bbox": [
+        961,
+        206,
+        1326,
+        285
+      ],
+      "center": [
+        1143,
+        245
+      ],
+      "area": 28835,
+      "objects": [
+        "Zaun",
+        "Auto",
+        "Motorrad",
+        "Person",
+        "Polizist",
+        "Hund",
+        "Bäume"
+      ]
+    },
+    {
+      "index": 10,
+      "bbox": [
+        959,
+        289,
+        1341,
+        442
+      ],
+      "center": [
+        1150,
+        365
+      ],
+      "area": 58446,
+      "objects": [
+        "Pferd",
+        "Fahrrad",
+        "Auto",
+        "Fluss",
+        "Baum",
+        "Radfahrer",
+        "Polizist",
+        "Wanderer",
+        "Kind"
+      ]
+    },
+    {
+      "index": 11,
+      "bbox": [
+        723,
+        376,
+        944,
+        439
+      ],
+      "center": [
+        833,
+        407
+      ],
+      "area": 13923,
+      "objects": [
+        "ältere Frau",
+        "Busch",
+        "Felsen",
+        "Fluss",
+        "Person",
+        "Polizist",
+        "Polizistin",
+        "Brille"
+      ]
+    },
+    {
+      "index": 12,
+      "bbox": [
+        686,
+        446,
+        1098,
+        714
+      ],
+      "center": [
+        892,
+        580
+      ],
+      "area": 110416,
+      "objects": [
+        "Zaun",
+        "Hut",
+        "Erwachsene",
+        "Wippe",
+        "Hindernis",
+        "Telefon",
+        "Hund",
+        "Kind"
+      ]
+    },
+    {
+      "index": 13,
+      "bbox": [
+        1148,
+        498,
+        1340,
+        762
+      ],
+      "center": [
+        1244,
+        630
+      ],
+      "area": 50688,
+      "objects": [
+        "Kamera",
+        "Mikrofon",
+        "Polizist",
+        "Zertifikat",
+        "Podest",
+        "Hund",
+        "Kind",
+        "Frau",
+        "Mann"
+      ]
+    }
+  ]
+}

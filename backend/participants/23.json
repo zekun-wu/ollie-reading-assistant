@@ -1,0 +1,18 @@
+{
+  "default": {
+    "condition_order": [
+      "eye_assistance",
+      "assistance"
+    ],
+    "assistance": [
+      "1.jpg",
+      "6.jpg",
+      "3.jpg"
+    ],
+    "eye_assistance": [
+      "2.jpg",
+      "4.jpg",
+      "5.jpg"
+    ]
+  }
+}
