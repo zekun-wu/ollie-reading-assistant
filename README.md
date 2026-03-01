@@ -49,7 +49,7 @@ App: `http://localhost:3000`
 
 ```mermaid
 flowchart LR
-    A[Open app and enter participant number] --> B[Frontend fetches sequence<br/>/api/sequences/participant/{user_number}]
+    A[Open app and enter participant number] --> B[Frontend fetches sequence<br/>/api/sequences/participant/(user_number)]
     B --> C{Step type}
     C --> D[assistance<br/>Manual guidance]
     C --> E[eye_assistance<br/>Start eye tracker + WebSocket]
