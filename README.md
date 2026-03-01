@@ -32,9 +32,6 @@ pip install -r requirements.txt
 python start_dev.py
 ```
 
-Backend: `http://localhost:8080`  
-Health: `http://localhost:8080/health`
-
 ### 2) Start frontend
 
 ```bash
@@ -43,13 +40,11 @@ npm install
 npm start
 ```
 
-App: `http://localhost:3000`
-
 ## Ollie Pipeline
 
 ```mermaid
 flowchart LR
-    A[Open app and enter participant number] --> B[Frontend fetches sequence<br/>/api/sequences/participant/(user_number)]
+    A[Open app and enter participant number] --> B[Frontend fetches sequence from API by user number]
     B --> C{Step type}
     C --> D[assistance<br/>Manual guidance]
     C --> E[eye_assistance<br/>Start eye tracker + WebSocket]
